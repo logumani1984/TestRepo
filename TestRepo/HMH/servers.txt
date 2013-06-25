@@ -1,0 +1,229 @@
+http://10.198.250.35:8085/
+
+
+Username = chakkal
+Password = N@v1s1te123!
+devinem/B!0mtaun
+
+
+was6int/u8silver
+
+/usr/local/bin/sudo -u epcwas -i
+/usr/local/bin/sudo -u hrwwas -i
+/usr/local/bin/sudo -u txlaapp -i
+
+https://10.200.5.100:9043/ibm/console/logon.jsp
+ash-c-epcdm 
+
+ash-c-epcwas-01
+ash-c-epcwas-02
+ash-c-epcwas-03
+ash-c-tcwas-04
+
+ash-c-epcweb-01
+ash-c-epcweb-02
+ash-c-epcweb-03
+
+ash-sunv490-01 (Cert Review)
+ash-sunv490-03 (Cert)
+
+Cert:              elepcc1
+Cert Review:       elepccr1
+
+
+ASH-C-EPCWAS-01          Websphere Server1 **                 10.200.5.121 
+ASH-C-EPCWAS-02          Websphere Server 2                      10.200.5.122 
+ASH-C-EPCWAS-03          Websphere Server 3                      10.200.5.123 
+ASH-C-TCWAS-04             Websphere Server 4                      10.200.5.129 
+ASH-C-EPCWEB-01          Web Server1                                      10.200.5.101 
+ASH-C-EPCWEB-02          Web Server2                                      10.200.5.102 
+ASH-C-EPCWEB-03          Web Server3                                      10.200.5.103 
+ASH-C-EPCDM   Websphere deployment manager           10.200.5.100
+
+
+Cert
+export JAVA_HOME="/export/home/epcwas/ws/jdk/jdk1.6.0_18/bin"
+export PATH=$JAVA_HOME:$PATH
+
+export ORACLE_HOME=/u01/oracle/product/10.2.0/db
+export PATH=$ORACLE_HOME:$PATH
+
+
+/u01/oracle/product/10.2.0/db/bin
+
+
+/export/home/epcwas/
+
+Bamboo-agent-ash-c-epcdm/    Bamboo-agent-ash-c-epcdm-74/ Bamboo-agent-ash-sunv490-01/
+bamboo-agent.sh
+
+elsvc_cr
+
+Prod
+https://10.100.5.130:9043/ibm/console/logon.jsp
+chi-p-tcdm
+chi-p-tcweb-03
+chi-p-tcweb-02
+chi-p-tcweb-01
+chi-p-tcwas-04
+chi-p-tcwas-03
+chi-p-tcwas-02
+chi-p-tcwas-01
+chi-p-epcwas-03
+chi-p-epcwas-02
+chi-p-epcwas-01
+chi-sunv490-03(Prod)
+chi-sunv490-01(Prod Review)
+
+
+export JAVA_HOME="/export/home/epcwas/jdk/jdk1.6.0_18/bin"
+export PATH=$JAVA_HOME:$PATH
+
+
+
+Prod:             eltcp1    
+Prod Review:      eltcpr1
+
+eltcpr1
+
+
+
+to6ay_
+
+
+Prod river#900
+
+======================================================================================================
+
+
+HMOF
+=====
+
+export JAVA_HOME="/export/home/epcwas/ws/jdk/jdk1.6.0_18/bin"
+export PATH=$JAVA_HOME:$PATH
+
+/export/home/hrwwas/Bamboo-agent-ash-c-hrwdm
+
+ash-c-hrwdm (10.200.5.20) (Deployment Server)
+ash-c-hrwwas-01
+ash-c-hrwwas-02
+ash-c-hrwwas-03
+ash-c-hrwwas-04
+ash-c-hrwwas-05
+
+ash-c-hrwweb-01 (10.200.5.21)
+ash-c-hrwweb-02 (10.200.5.22)
+ash-c-hrwweb-03 (10.200.5.23)
+ash-c-hrwweb-04 (10.200.5.24)
+ash-c-hrwweb-05 (10.200.5.25)
+ash-c-hrwweb-06 (10.200.5.26)
+ash-c-hrwweb-07 (10.200.5.27)
+ash-c-hrwweb-08 (10.200.5.28)
+ash-c-hrwweb-09
+ash-c-hrwweb-10
+
+ash-sunv490-01.harcourt-elearning.com (CERT)
+ash-sunv490-02.harcourt-elearning.com (CERT)
+ash-sunv490-03.harcourt-elearning.com (CERT-REVIEW)
+ash-sunv490-04.harcourt-elearning.com (CERT-REVIEW)
+
+
+LYCEA/
+
+chi-p-hrwdm (10.100.5.20) ) (Deployment Server)
+chi-p-hrwweb-01 (10.100.5.21) port 8080
+chi-p-hrwweb-02 (10.100.5.22) port 8080
+chi-p-hrwweb-03 (10.100.5.23) port 8080
+chi-p-hrwweb-04 (10.100.5.24) port 8080
+chi-p-hrwweb-05 (10.100.5.25) port 8080
+chi-p-hrwweb-06 (10.100.5.26) port 8080
+chi-p-hrwweb-07 (10.100.5.27) port 8080
+chi-p-hrwweb-08 (10.100.5.28) port 8080
+chi-p-hrwweb-09 (10.100.5.29) port 8080
+chi-p-hrwweb-10 (10.100.5.30) port 8080
+chi-p-hrwwas-01	
+chi-p-hrwwas-02	
+chi-p-hrwwas-03	
+chi-p-hrwwas-04
+chi-p-hrwwas-05	
+chi-sunv490-01.harcourt-elearning.com
+chi-sunv490-02.harcourt-elearning.com (PROD)
+chi-sunv490-03.harcourt-elearning.com (PROD-REVIEW)
+chi-sunv490-04.harcourt-elearning.com (PROD-REVIEW)
+
+
+Logumani Chakkaravarthi says:
+Hi Martin,
+martin.bagnall@hmhpub.com says:
+Hi
+Logumani Chakkaravarthi says:
+How to check the Cert is available for users?
+martin.bagnall@hmhpub.com says:
+Cert is _http://www-cert.thinkcentral.com/ePC/start.do
+Cert Review is _http://www-review-cert-tc1.thinkcentral.com/ePC/start.do
+Both are saying server issues but no info on the actual error
+Logumani Chakkaravarthi says:
+would it be problem with configuration files?
+martin.bagnall@hmhpub.com says:
+I'm not sure - are you logged onto the DM? Can you check the WebSphere logs?
+The Bamboo logs don't indicate any issue. It may not be a deployment problem
+Logumani Chakkaravarthi says:
+Do we need to check the logs on DM server or WAS servers?
+martin.bagnall@hmhpub.com says:
+sorry, it's the logs on the WAS servers, yes
+I think we'll need to get NaviSite to take a look..
+I'm not sure what to look for
+Abdul didn't reply saying they had come up. Maybe that is still in progress?
+Logumani Chakkaravarthi says:
+hmm....
+hmmm..We need someone from DEV team to have a look.......
+martin.bagnall@hmhpub.com says:
+yes
+So that will need to wait until they get in
+Logumani Chakkaravarthi says:
+:-(
+martin.bagnall@hmhpub.com says:
+Ok, so there's not much that can be done right now if so. I'll email Bob and let him know that the application isn't available and that it needs someone from the Dev Team to pinpoint the problem so it can be addressed
+I take it Siva is the best person to look at this?
+Logumani Chakkaravarthi says:
+Okay.....yes..
+martin.bagnall@hmhpub.com says:
+Cool. You should go home and get some rest. Thanks again for your hard work on this Logumani
+Logumani Chakkaravarthi says:
+No problem Martin.,
+Can we wait till the server come up?
+martin.bagnall@hmhpub.com says:
+still starting, wow, it take a long time
+yes, np
+Logumani Chakkaravarthi says:
+Cert has come up.. :-)
+I guess Cert Review is in progress
+martin.bagnall@hmhpub.com says:
+:)
+looks like Cert Review is up now
+Logumani Chakkaravarthi says:
+both Cert and Cert review are up :-)
+martin.bagnall@hmhpub.com says:
+That's really weird that it takes so long to restart the cluster
+Logumani Chakkaravarthi says:
+:D
+martin.bagnall@hmhpub.com says:
+Excellent, well done Logumani, brilliant job
+Do you want to send an email out announcing that you have Cert/Cert Review completed?
+Logumani Chakkaravarthi says:
+yes..
+martin.bagnall@hmhpub.com says:
+Then go home and get some much needed food and sleep :D
+Logumani Chakkaravarthi says:
+I feel it like I had enough food now.. :-)
+martin.bagnall@hmhpub.com says:
+Well I deinitely need food now :)
+definitely
+Logumani Chakkaravarthi says:
+I'm sending an email to all to notify about the environment and send you the detailed email...
+martin.bagnall@hmhpub.com says:
+Great, thanks
+
+
+Thanks,
+Logumani  | +91 9629769019
